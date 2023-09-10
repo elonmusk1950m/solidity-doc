@@ -1,0 +1,21 @@
+官网：https://zksync.io/
+Zks Era开发文档：https://era.zksync.io/docs/dev/
+区块链浏览器：https://explorer.zksync.io/
+桥：https://bridge.zksync.io/
+交易所：https://izumi.finance
+
+
+主网网络信息
+网络名称：zkSync Era Mainnet
+远程过程调用地址：https://mainnet.era.zksync.io
+链号：324
+货币符号：ETH
+区块浏览器网址：https://explorer.zksync.io/
+WebSocket网址：wss://mainnet.era.zksync.io/ws
+测试网络信息
+网络名称：zkSync Era Testnet
+远程过程调用地址：https://testnet.era.zksync.dev
+链号：280
+货币符号：ETH
+区块浏览器网址：https://goerli.explorer.zksync.io/
+WebSocket网址：wss://testnet.era.zksync.dev/ws
